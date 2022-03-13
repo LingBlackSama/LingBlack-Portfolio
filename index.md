@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to LingBlack's Portfolio
 
-You can use the [editor on GitHub](https://github.com/LingBlackSama/LingBlack.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is for someone who wants to know about me and hire me to work on different platforms. [Old Portfolio](https://devforum.roblox.com/t/lingblack87661-animator-and-scripter/1214778)
 
 ### Markdown
 
