@@ -10,7 +10,7 @@ I'm LingBlack. I’m an R6 Roblox animator and a scripter that mainly uses Lua a
 
 ### Work and Previous Experience
 
-Working on the website...
+Currently working on a Yugioh game in Roblox
 
 ### Available and Work Times
 
