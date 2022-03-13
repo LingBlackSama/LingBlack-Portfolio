@@ -1,10 +1,12 @@
 ## Welcome to LingBlack's Portfolio
 
-This website is for someone who wants to know about me and hire me to work on different platforms. [Old Portfolio](https://devforum.roblox.com/t/lingblack87661-animator-and-scripter/1214778)
+This website is for someone who wants to know about me and hire me to work on different platforms. 
 
-### Markdown
+(Link to [old portfolio](https://devforum.roblox.com/t/lingblack87661-animator-and-scripter/1214778))
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### About Me
+
+I'm LingBlack. I’m an R6 Roblox animator and a scripter that mainly uses Lua and LuaU. I like making new friends and watching Anime. Although I'm not a professional animator or scripter, I will do my best in animating and scripting.
 
 ```markdown
 Syntax highlighted code block
