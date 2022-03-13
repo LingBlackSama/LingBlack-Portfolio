@@ -1,37 +1,37 @@
 ## Welcome to LingBlack's Portfolio
 
-This website is for someone who wants to know about me and hire me to work on different platforms. 
+![image](https://user-images.githubusercontent.com/88409650/158051656-3c556b27-14cb-4f2e-b592-d9464acb71b1.png)
 
-(Link to [old portfolio](https://devforum.roblox.com/t/lingblack87661-animator-and-scripter/1214778))
+This website is for someone who wants to know about me and hire me to work on different platforms. 
 
 ### About Me
 
 I'm LingBlack. I’m an R6 Roblox animator and a scripter that mainly uses Lua and LuaU. I like making new friends and watching Anime. Although I'm not a professional animator or scripter, I will do my best in animating and scripting.
 
-```markdown
-Syntax highlighted code block
+### Work and Previous Experience
 
-# Header 1
-## Header 2
-### Header 3
+Working on the website...
 
-- Bulleted
-- List
+### Available and Work Times
 
-1. Numbered
-2. List
+Due to the COVID-19 pandemic, I’m available from Monday to Saturday! My working hours are:
 
-**Bold** and _Italic_ and `Code` text
+Saturday - Sunday:
+12:00pm - 4:00pm (GMT-7)
 
-[Link](url) and ![Image](src)
-```
+### Payment
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The payment (price) per asset or per assets pack depends on the complexity. If you want an entire game scripted, obviously is completely different.
 
-### Jekyll Themes
+Anyway, prices are always negotiable until the negotiation is closed. I would prefer to sign a contract as a Developer to ensure that I’ll get paid!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LingBlackSama/LingBlack.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I don’t have a really ToS for my own, but I’ll never create one if the community is good with me, without scams, etc.
 
-### Support or Contact
+### Contact and Social Medias
+You can contact me by sending a friend request to my discord. I list below my social media and where you can contact me.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Discord : Mitsuri Kanroji#3729
+Have a nice day and I hope we can get in contact soon!
+
+### Links
+[Old portfolio in DevForum | Roblox](https://devforum.roblox.com/t/lingblack87661-animator-and-scripter/1214778)
