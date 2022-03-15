@@ -1,4 +1,4 @@
-## Welcome to LingBlack's Portfolio
+# Welcome to LingBlack's Portfolio
 
 ![image](https://user-images.githubusercontent.com/88409650/158051656-3c556b27-14cb-4f2e-b592-d9464acb71b1.png)
 
@@ -10,6 +10,7 @@ I'm LingBlack. I’m an R6 Roblox animator and a scripter that mainly uses Lua a
 
 ### Work and Previous Experience
 
+[Small project: LB Calculator (Working on process)](https://lingblacksama.github.io/LB-Calculator/)
 Currently working on a Yugioh game in Roblox
 
 ### Available and Work Times
