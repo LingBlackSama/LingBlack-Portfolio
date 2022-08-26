@@ -12,7 +12,7 @@ I'm LingBlack. I’m an R6 Roblox animator and a scripter that mainly uses Lua a
 
 [Small project: LB Calculator (Working on process)](https://lingblacksama.github.io/LB-Calculator/)
 
-Currently working on a Yugioh game in Roblox
+[LB Performance](https://devforum.roblox.com/t/lb-performance-a-simple-module-that-optimize-your-game-performance/1940376)
 
 ### Available and Work Times
 
