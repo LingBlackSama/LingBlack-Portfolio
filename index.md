@@ -6,17 +6,17 @@ This website is for someone who wants to know about me and hire me to work on di
 
 ### About Me
 
-I'm LingBlack. I’m an R6 Roblox animator and a scripter that mainly uses Lua and LuaU. I like making new friends and watching Anime. Although I'm not a professional animator or scripter, I will do my best in animating and scripting.
+I'm LingBlack. I’m an R6 Roblox animator and a scripter which mainly focus on Lua and Luau. I like making new friends and watching Anime. Although I'm not a professional animator or scripter, I will do my best in animating and scripting.
 
 ### Work and Previous Experience
 
-[Small project: LB Calculator (Working on process)](https://lingblacksama.github.io/LB-Calculator/)
+[Small project: LB Calculator (Discontinue)](https://lingblacksama.github.io/LB-Calculator/)
 
 [LB Performance](https://devforum.roblox.com/t/lb-performance-a-simple-module-that-optimize-your-game-performance/1940376)
 
 ### Available and Work Times
 
-Due to the COVID-19 pandemic, I’m available from Monday to Saturday! My working hours are:
+Due to the COVID-19 pandemic, I’m available from Saturday to Sunday! My working hours are:
 
 Saturday - Sunday:
 12:00pm - 4:00pm (GMT-7)
