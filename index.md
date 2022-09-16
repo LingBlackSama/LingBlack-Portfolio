@@ -13,7 +13,7 @@ I'm LingBlack. I’m an R6 Roblox animator and a scripter which mainly focus on 
 
 [LB Performance](https://devforum.roblox.com/t/lb-performance-a-simple-module-that-optimize-your-game-performance/1940376)
 
-[Small project: LB Calculator (Discontinue)](https://lingblacksama.github.io/LB-Calculator/)
+[LB Calculator (Discontinue)](https://lingblacksama.github.io/LB-Calculator/)
 
 ### Available and Work Times
 
